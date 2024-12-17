@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd6b535-346f-4c36-80e5-077d9fdfdffc" name="Changes" comment="Added two variations" />
+    <list default="true" id="1cd6b535-346f-4c36-80e5-077d9fdfdffc" name="Changes" comment="Added two variations">
+      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,18 +32,20 @@
     &quot;assignee&quot;: &quot;DMelnikk&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DMelnikk/blog-php.git&quot;,
-    &quot;accountId&quot;: &quot;e14b9a46-4e64-4fe4-ab94-e5f393285cf1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DMelnikk/php-blog.git",
+    "accountId": "e14b9a46-4e64-4fe4-ab94-e5f393285cf1"
   }
-}</component>
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0.12" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2qLKQ5dLhTfVH1hlRceCj4w3GIU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,7 +81,7 @@
       <updated>1734436396330</updated>
       <workItem from="1734436397741" duration="1236000" />
       <workItem from="1734440323871" duration="2844000" />
-      <workItem from="1734443752663" duration="1566000" />
+      <workItem from="1734443752663" duration="3085000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <option name="closed" value="true" />
