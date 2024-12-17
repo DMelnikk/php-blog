@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd6b535-346f-4c36-80e5-077d9fdfdffc" name="Changes" comment="Added two variations">
-      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,7 @@
       <updated>1734436396330</updated>
       <workItem from="1734436397741" duration="1236000" />
       <workItem from="1734440323871" duration="2844000" />
-      <workItem from="1734443752663" duration="3085000" />
+      <workItem from="1734443752663" duration="4130000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <option name="closed" value="true" />
@@ -99,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734442561149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added two variations">
+      <option name="closed" value="true" />
+      <created>1734447498351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734447498351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
